@@ -1,0 +1,4 @@
+RENAME TABLE Students TO StudentDetails;
+
+TRUNCATE TABLE Students;
+
